@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/bms-1.0.1-SNAPSHOT-all.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/cglib-nodep-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/javassist-3.18.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/jsi-1.0b2p1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/kernel.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/log4j-1.2-api-2.0-beta7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/log4j-api-2.0-beta7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/log4j-core-2.0-beta7.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/mapdb-0.9.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/MaxSum.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/mockito-all-1.9.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/objenesis-2.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/powermock-mockito-1.5.3-full.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/rescuecore2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/standard.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/trove-0.1.8.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/trove-3.0.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/rescue/workspace/RSLB2/lib/uncommons-maths-1.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
